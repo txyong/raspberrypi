@@ -1,0 +1,2 @@
+#每天9点到16点每4个小时执行一次
+0 9-16/4 * * * ./home/pi/time-lapse-camera.py
